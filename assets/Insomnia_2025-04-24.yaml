@@ -1,5 +1,5 @@
 type: collection.insomnia.rest/5.0
-name: yape
+name: transactions-service
 meta:
   id: wrk_8f2e2654a32e401f83f4748ea3b77030
   created: 1745290581007
