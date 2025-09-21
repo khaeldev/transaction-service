@@ -45,7 +45,7 @@ Make sure you have the following installed on your local machine:
 
 Below is the architecture diagram for the system:
 
-![Architecture Diagram](./assets/architecture-diagram.png)
+![Architecture Diagram](./assets/architecture-diagrams.png)
 
 
 ## 🚀 Quick Start (Local Development)
